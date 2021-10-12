@@ -1,0 +1,37 @@
+.container {
+  margin-top: 5em;
+}
+
+.navbar {
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.todo-list {
+  margin-top: 3em;
+}
+
+.dropdown-item {
+  display: inline;
+  position: inherit;
+  height: 3em;
+}
+
+.todo {
+  margin-top: 2em;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 50em;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-left: 10em;
+  text-transform: uppercase;
+  font-style: oblique;
+}
+/*# sourceMappingURL=style.css.map */
